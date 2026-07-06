@@ -1,0 +1,21 @@
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
+
+# Environment files
+.env
+
+# Log files
+*.log
+
+# Node packages (for future use)
+node_modules/
+
+# Temporary files
+*.tmp
+*.temp
